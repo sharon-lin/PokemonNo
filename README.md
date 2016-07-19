@@ -1,4 +1,4 @@
-# Remove Pokemon from your Facebook Feed
+# PokemonNo
 
 Remove all mentions of Pokemon Go from your Facebook Feed!
 
